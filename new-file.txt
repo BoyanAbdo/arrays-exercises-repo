@@ -1,3 +1,5 @@
 Content...
 
 Making some changes, now trying the GitBash..
+
+HELLO, I AM HERE!
